@@ -1,4 +1,4 @@
-TIC TAC TOE GAME IN REACTJS
+## TIC TAC TOE GAME IN REACTJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
